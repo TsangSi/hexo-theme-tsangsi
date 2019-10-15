@@ -1,18 +1,16 @@
-> This HuWeihuang theme created by [HuWeihuang](http://www.huweihuang.com/) modified from the original Porter [YuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech)
+> This HuWeihuang theme created by [TsangSi](http://tsangsi.github.io/) modified from the original Porter [YuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech)
 > 
 > This theme has been published to the [hexo theme list](https://hexo.io/themes/).
 
 # Live Demo
 
-Hu Weihuang Blog : [www.huweihuang.com](http://www.huweihuang.com/)
+Tsang Si Blog : [http://tsangsi.github.io](http://tsangsi.github.io/)
 
-![Theme_HuWeihuang](https://res.cloudinary.com/dqxtn0ick/image/upload/v1553666111/blog/blog.jpg)
 
 # Copyright Notice
 
 **You can free to use this theme, but you need to keep the following copyright notice on the website.**
 
-<img src="https://res.cloudinary.com/dqxtn0ick/image/upload/v1537879475/header/copyright.png" width="55%">
 
 # Install Hexo
 
@@ -37,8 +35,8 @@ npm install hexo-cli -g
 ## Init
 
 ```bash
-git clone https://github.com/huweihuang/hexo-theme-huweihuang.git ./hexo-huweihuang
-cd hexo-huweihuang
+git clone https://github.com/tsangsi/hexo-theme-tsangsi.git ./hexo-tsangsi
+cd hexo-tsangsi
 npm install
 ```
 
@@ -86,7 +84,7 @@ You can decide to show post tags or not.
 ```yml
 home_posts_tag: true
 ```
- ![tag](https://raw.githubusercontent.com/huweihuang/hexo-theme-huweihuang/master/source/img/article/tag.png)
+
 ### Markdown render
 My markdown render engine plugin is [hexo-renderer-markdown-it](https://github.com/celsomiranda/hexo-renderer-markdown-it).
 ```yml
@@ -121,5 +119,5 @@ hexo deploy # hexo will push the static files automatically into the specific br
 ```
 
 # Have fun ^_^ 
-Please <a class="github-button" href="https://github.com/huweihuang/hexo-theme-huweihuang" data-icon="octicon-star" aria-label="Star huweihuang/hexo-theme-huweihuang on GitHub">Star</a> this Project if you like it! <a class="github-button" href="https://github.com/huweihuang" aria-label="Follow @huweihuang on GitHub">Follow</a> would also be appreciated!
+Please <a class="github-button" href="https://github.com/tsangsi/hexo-theme-tsangsi" data-icon="octicon-star" aria-label="Star tsangsi/hexo-theme-tsangsi on GitHub">Star</a> this Project if you like it! <a class="github-button" href="https://github.com/tsangsi" aria-label="Follow @tsangsi on GitHub">Follow</a> would also be appreciated!
 Peace!
